@@ -18,4 +18,4 @@ User-agent: DotBot
 User-agent: CCBot
 Disallow: /
 
-Sitemap: https://only-spins-app.pages.dev/sitemap.xml
+Sitemap: https://only-spins-app-97h.pages.dev/sitemap.xml
